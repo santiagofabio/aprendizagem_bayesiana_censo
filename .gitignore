@@ -1,1 +1,4 @@
 *.tiff
+*.csv
+*.pkl
+__pycache__/
